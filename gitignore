@@ -9,3 +9,6 @@
 !README.md
 !requirements.txt
 WhatsApp Chat with Stake.txt
+__pycache__
+.ipynb_checkpoints
+.venv
